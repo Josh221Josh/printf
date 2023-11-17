@@ -1,7 +1,7 @@
 0x11. C - printf
 C
 Group project
- By: Julien Barbier, co-founder & CEO
+ By: Peter obinna and Joshue Teyi
  Weight: 5
  Project to be done in teams of 2 people (your team: Peter Obinna Ugwuoke, Joshua Teyi)
  Ongoing second chance project - started Nov 10, 2023 6:00 AM, must end by Nov 18, 2023 6:00 AM
